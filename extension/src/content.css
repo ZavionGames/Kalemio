@@ -1,0 +1,109 @@
+:host {
+  all: initial;
+  color-scheme: light;
+}
+* {
+  box-sizing: border-box;
+}
+button {
+  font: inherit;
+  cursor: pointer;
+  color: inherit;
+}
+button:focus-visible {
+  outline: 2px solid #167568;
+  outline-offset: 2px;
+}
+.pin,
+.card,
+.underline {
+  position: fixed;
+  pointer-events: auto;
+}
+.pin {
+  font:
+    italic bold 22px Georgia,
+    serif;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 1px solid #e2f1e9;
+  border-radius: 9px;
+  background: #135d51;
+  color: white;
+  box-shadow: 0 2px 6px #14392c32;
+}
+.card {
+  width: min(324px, calc(100vw - 16px));
+  overflow: auto;
+  max-height: min(480px, 65vh);
+  background: #fffefb;
+  color: #192e29;
+  border: 1px solid #d6e1da;
+  box-shadow: 0 8px 35px #19352b29;
+  border-radius: 12px;
+  padding: 15px;
+  font:
+    14px/1.45 'Segoe UI',
+    Arial,
+    sans-serif;
+}
+.card strong {
+  font:
+    bold 20px Georgia,
+    serif;
+}
+.card p {
+  margin: 9px 0;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
+}
+.card button {
+  font: inherit;
+  background: #fffefb;
+  border: 1px solid #d5dfd6;
+  border-radius: 6px;
+  padding: 6px 9px;
+  margin: 2px;
+  text-align: left;
+}
+.card button.primary {
+  background: #175e51;
+  color: white;
+  border-color: #175e51;
+}
+.card button.lock {
+  color: #596660;
+}
+.card small {
+  display: block;
+  color: #50645c;
+  margin: 10px 0 2px;
+}
+.card del {
+  background: #ffe2dd;
+  color: #814036;
+}
+.card ins {
+  background: #d9f0df;
+  color: #174d34;
+  text-decoration: none;
+}
+.underline {
+  padding: 0;
+  height: 6px;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px dotted #ae4539;
+}
+.underline.accent {
+  border-color: #b47727;
+}
+[hidden] {
+  display: none !important;
+}

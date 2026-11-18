@@ -1,0 +1,6 @@
+{
+  "name": "@kalemio/backend",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js"
+}

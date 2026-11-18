@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+.wrangler/
+.env
+.env.*
+!.env.example
+.dev.vars*
+*.log
+coverage/
+test-results/
+/kalemio-prompt-tam.md

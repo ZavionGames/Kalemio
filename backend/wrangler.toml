@@ -1,0 +1,26 @@
+name = "kalemio"
+main = "src/index.js"
+compatibility_date = "2025-11-01"
+workers_dev = true
+keep_vars = true
+
+[vars]
+GEMINI_MODEL_2 = "gemini-3.1-flash-lite"
+GROQ_MODEL = "openai/gpt-oss-20b"
+OPENROUTER_MODEL = "nvidia/nemotron-3.5-lightning:free"
+GEMINI_MODEL = "gemini-3.1-flash-lite"
+
+[[kv_namespaces]]
+binding = "KALEMIO_KV"
+# Wrangler, ilk dağıtımda ad alanı oluşturabilir. Mevcut alan için id satırı ekleyin.
+
+[[durable_objects.bindings]]
+name = "LEDGER"
+class_name = "Ledger"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Ledger"]
+
+[observability]
+enabled = false

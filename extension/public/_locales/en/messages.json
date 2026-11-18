@@ -1,0 +1,233 @@
+{
+  "edit_mismatch": {
+    "message": "A reliable edit could not be provided for this text. Your daily allowance is unchanged."
+  },
+  "reloadTab": {
+    "message": "Kalemio was updated. Save your draft, then refresh this page."
+  },
+  "name": {
+    "message": "Kalemio"
+  },
+  "description": {
+    "message": "Turkish spelling, accent suggestions and on-demand AI editing."
+  },
+  "fix": {
+    "message": "Correct"
+  },
+  "fluent": {
+    "message": "Improve flow"
+  },
+  "formal": {
+    "message": "Formal"
+  },
+  "friendly": {
+    "message": "Friendly"
+  },
+  "polite": {
+    "message": "Polite"
+  },
+  "concise": {
+    "message": "Shorten"
+  },
+  "email": {
+    "message": "Draft email"
+  },
+  "translate_tr_en": {
+    "message": "Translate · TR → EN"
+  },
+  "translate_en_tr": {
+    "message": "Translate · EN → TR"
+  },
+  "analyze": {
+    "message": "Analyze"
+  },
+  "accent": {
+    "message": "Accent suggestions"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "today": {
+    "message": "Today’s edits"
+  },
+  "left": {
+    "message": "{n}/{limit} edits left today."
+  },
+  "settingsOpen": {
+    "message": "Open settings"
+  },
+  "disable": {
+    "message": "Disable on this site"
+  },
+  "enable": {
+    "message": "Enable on this site"
+  },
+  "site": {
+    "message": "Site preference"
+  },
+  "local": {
+    "message": "Local spell check"
+  },
+  "localInfo": {
+    "message": "Spelling and accent suggestions are generated on this device."
+  },
+  "privacy": {
+    "message": "Privacy"
+  },
+  "consent": {
+    "message": "May we send the text you select to AI services for editing? These services may use it to improve their products."
+  },
+  "allow": {
+    "message": "Allow and send"
+  },
+  "allowed": {
+    "message": "You have allowed text to be sent for editing."
+  },
+  "revoke": {
+    "message": "Withdraw consent"
+  },
+  "noConsent": {
+    "message": "We’ll ask your permission before your first edit."
+  },
+  "dict": {
+    "message": "Personal dictionary"
+  },
+  "add": {
+    "message": "Add word"
+  },
+  "remove": {
+    "message": "Remove"
+  },
+  "word": {
+    "message": "Word"
+  },
+  "shortcuts": {
+    "message": "Change keyboard shortcut"
+  },
+  "blocked": {
+    "message": "Disabled sites"
+  },
+  "none": {
+    "message": "No disabled sites."
+  },
+  "before": {
+    "message": "Before"
+  },
+  "after": {
+    "message": "After"
+  },
+  "apply": {
+    "message": "Apply"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "undo": {
+    "message": "Undo"
+  },
+  "done": {
+    "message": "Text updated."
+  },
+  "busy": {
+    "message": "Editing text…"
+  },
+  "quota_exceeded": {
+    "message": "You have used all 10 edits for today. Try again tomorrow."
+  },
+  "rate_limited": {
+    "message": "Too many requests. Try again in a minute."
+  },
+  "geminiLimit": {
+    "message": "Editing is unavailable right now. Try again later. You still have this edit."
+  },
+  "geminiBusy": {
+    "message": "Editing is temporarily unavailable. Try again shortly."
+  },
+  "requestPending": {
+    "message": "Your edit is in progress. Please wait."
+  },
+  "tooLong": {
+    "message": "Select up to 4,000 characters. Split longer text into sections and edit each in turn."
+  },
+  "empty": {
+    "message": "Type or select some text first."
+  },
+  "timeout": {
+    "message": "The request timed out. Try again."
+  },
+  "offline": {
+    "message": "Could not connect. Check your internet connection."
+  },
+  "server": {
+    "message": "The editing service is unavailable."
+  },
+  "unexpected": {
+    "message": "Could not complete this action. Try again."
+  },
+  "forbidden": {
+    "message": "Editing is unavailable on this page."
+  },
+  "stale": {
+    "message": "The text changed. Try again with the current text."
+  },
+  "consentNeeded": {
+    "message": "Consent is required before sending."
+  },
+  "unsupported": {
+    "message": "Unavailable on this page."
+  },
+  "modeUnavailable": {
+    "message": "This edit is not available yet."
+  },
+  "noTips": {
+    "message": "No accent suggestions in this section."
+  },
+  "dictionary": {
+    "message": "Dictionary unavailable. Reload the extension."
+  },
+  "suggestions": {
+    "message": "Suggestions"
+  },
+  "readability": {
+    "message": "Readability"
+  },
+  "repeatedWords": {
+    "message": "Repeated words"
+  },
+  "averageSentenceLength": {
+    "message": "Average sentence length (words)"
+  },
+  "noSuggestions": {
+    "message": "No suggestions found."
+  },
+  "menu": {
+    "message": "Kalemio menu"
+  },
+  "back": {
+    "message": "Back"
+  },
+  "dismiss": {
+    "message": "Close"
+  },
+  "rich": {
+    "message": "Writing assistant"
+  },
+  "shortcutLabel": {
+    "message": "Open the Kalemio menu"
+  },
+  "context": {
+    "message": "Correct with Kalemio"
+  },
+  "accentBusy": {
+    "message": "Checking dictionary…"
+  },
+  "saved": {
+    "message": "Saved."
+  },
+  "usage": {
+    "message": "Usage"
+  },
+  "preferences": {
+    "message": "Preferences"
+  }
+}

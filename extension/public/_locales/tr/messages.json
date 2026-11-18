@@ -1,0 +1,233 @@
+{
+  "edit_mismatch": {
+    "message": "Bu metin için güvenilir bir düzenleme sunulamadı. Günlük hakkın korunuyor."
+  },
+  "reloadTab": {
+    "message": "Kalemio güncellendi. Taslağını kaydet, ardından bu sayfayı yenile."
+  },
+  "name": {
+    "message": "Kalemio"
+  },
+  "description": {
+    "message": "Türkçe yazım denetimi, aksan önerileri ve isteğe bağlı yapay zekâ ile metin düzenleme."
+  },
+  "fix": {
+    "message": "Düzelt"
+  },
+  "fluent": {
+    "message": "Akıcı yap"
+  },
+  "formal": {
+    "message": "Resmî"
+  },
+  "friendly": {
+    "message": "Samimi"
+  },
+  "polite": {
+    "message": "Nazik"
+  },
+  "concise": {
+    "message": "Kısalt"
+  },
+  "email": {
+    "message": "E-posta yaz"
+  },
+  "translate_tr_en": {
+    "message": "Çevir · TR → EN"
+  },
+  "translate_en_tr": {
+    "message": "Çevir · EN → TR"
+  },
+  "analyze": {
+    "message": "Analiz"
+  },
+  "accent": {
+    "message": "Aksan önerileri"
+  },
+  "settings": {
+    "message": "Ayarlar"
+  },
+  "today": {
+    "message": "Bugünkü düzenlemeler"
+  },
+  "left": {
+    "message": "Bugün {n}/{limit} hakkın kaldı."
+  },
+  "settingsOpen": {
+    "message": "Ayarları aç"
+  },
+  "disable": {
+    "message": "Bu sitede kapat"
+  },
+  "enable": {
+    "message": "Bu sitede aç"
+  },
+  "site": {
+    "message": "Site ayarı"
+  },
+  "local": {
+    "message": "Yerel yazım denetimi"
+  },
+  "localInfo": {
+    "message": "Yazım ve aksan önerileri cihazında hazırlanır."
+  },
+  "privacy": {
+    "message": "Gizlilik"
+  },
+  "consent": {
+    "message": "Düzenlemek için seçtiğin metni yapay zekâ hizmetlerine göndermemize izin veriyor musun? Bu hizmetler metni ürünlerini geliştirmek için kullanabilir."
+  },
+  "allow": {
+    "message": "Onayla ve gönder"
+  },
+  "allowed": {
+    "message": "Metin gönderimine izin verdin."
+  },
+  "revoke": {
+    "message": "Onayı geri al"
+  },
+  "noConsent": {
+    "message": "İlk düzenlemeden önce iznini isteyeceğiz."
+  },
+  "dict": {
+    "message": "Kişisel sözlük"
+  },
+  "add": {
+    "message": "Kelime ekle"
+  },
+  "remove": {
+    "message": "Kaldır"
+  },
+  "word": {
+    "message": "Kelime"
+  },
+  "shortcuts": {
+    "message": "Klavye kısayolunu değiştir"
+  },
+  "blocked": {
+    "message": "Kapalı siteler"
+  },
+  "none": {
+    "message": "Kapalı site yok."
+  },
+  "before": {
+    "message": "Önce"
+  },
+  "after": {
+    "message": "Sonra"
+  },
+  "apply": {
+    "message": "Uygula"
+  },
+  "cancel": {
+    "message": "Vazgeç"
+  },
+  "undo": {
+    "message": "Geri al"
+  },
+  "done": {
+    "message": "Metin güncellendi."
+  },
+  "busy": {
+    "message": "Metin düzenleniyor…"
+  },
+  "quota_exceeded": {
+    "message": "Bugünkü 10 hakkını kullandın. Yarın devam edebilirsin."
+  },
+  "rate_limited": {
+    "message": "Kısa sürede çok sayıda istek geldi. Bir dakika sonra tekrar dene."
+  },
+  "geminiLimit": {
+    "message": "Şu anda düzenleme yapılamıyor. Daha sonra tekrar dene. Hakkın korunuyor."
+  },
+  "geminiBusy": {
+    "message": "Düzenleme şu anda kullanılamıyor. Biraz sonra tekrar dene."
+  },
+  "requestPending": {
+    "message": "Metnin düzenleniyor. Biraz bekle."
+  },
+  "tooLong": {
+    "message": "En fazla 4000 karakter seç. Uzun metni bölümlere ayırıp sırayla düzenleyebilirsin."
+  },
+  "empty": {
+    "message": "Önce düzenleyeceğin metni yaz veya seç."
+  },
+  "timeout": {
+    "message": "Yanıt zamanında gelmedi. Tekrar dene."
+  },
+  "offline": {
+    "message": "Bağlantı kurulamadı. İnternet bağlantını kontrol et."
+  },
+  "server": {
+    "message": "Düzenleme servisi şu anda yanıt veremiyor."
+  },
+  "unexpected": {
+    "message": "İşlem tamamlanamadı. Tekrar dene."
+  },
+  "forbidden": {
+    "message": "Bu sayfada düzenleme yapılamıyor."
+  },
+  "stale": {
+    "message": "Metin değişti. Güncel metinle yeniden dene."
+  },
+  "consentNeeded": {
+    "message": "Göndermek için önce onay ver."
+  },
+  "unsupported": {
+    "message": "Bu sayfada kullanılamıyor."
+  },
+  "modeUnavailable": {
+    "message": "Bu düzenleme henüz kullanılamıyor."
+  },
+  "noTips": {
+    "message": "Bu bölümde aksan önerisi yok."
+  },
+  "dictionary": {
+    "message": "Sözlük yüklenemedi. Uzantıyı yeniden yükle."
+  },
+  "suggestions": {
+    "message": "Öneriler"
+  },
+  "readability": {
+    "message": "Okunabilirlik"
+  },
+  "repeatedWords": {
+    "message": "Tekrarlanan kelimeler"
+  },
+  "averageSentenceLength": {
+    "message": "Ortalama cümle uzunluğu (kelime)"
+  },
+  "noSuggestions": {
+    "message": "Öneri bulunamadı."
+  },
+  "menu": {
+    "message": "Kalemio menüsü"
+  },
+  "back": {
+    "message": "Geri"
+  },
+  "dismiss": {
+    "message": "Kapat"
+  },
+  "rich": {
+    "message": "Yazım ve ifade asistanı"
+  },
+  "shortcutLabel": {
+    "message": "Kalemio menüsünü aç"
+  },
+  "context": {
+    "message": "Kalemio ile düzelt"
+  },
+  "accentBusy": {
+    "message": "Sözlük taranıyor…"
+  },
+  "saved": {
+    "message": "Kaydedildi."
+  },
+  "usage": {
+    "message": "Kullanım"
+  },
+  "preferences": {
+    "message": "Tercihler"
+  }
+}
